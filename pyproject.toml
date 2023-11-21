@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.11"
 django-stubs = "^4.2.6"
 django = "^4.2.7"
-mypy = "^1.7.0"
+mypy = "1.6.1"
 
 
 [build-system]
